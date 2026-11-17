@@ -2,9 +2,9 @@
 
 Snap a photo of your meal and get instant calories, macros, micronutrients and healthier swaps. NutriLens is tuned for Indian food.
 
-**Live:** https://nutrilens-frontend.onrender.com · **API:** [NutriLens---Backend](https://github.com/Rajat22-11/NutriLens---Backend)
 
-![Landing page](docs/screenshots/landing.jpg)
+
+
 
 ## Features
 
@@ -30,8 +30,7 @@ React 19 · Vite 7 · MUI 7 · Recharts 3 · React Router 7 · Axios · Plus Jak
 
 ## Getting started
 
-Requires Node.js 20 or newer and a running [NutriLens API](https://github.com/Rajat22-11/NutriLens---Backend).
-
+Requires Node.js 20 or newer and a running 
 ```bash
 npm install
 cp .env.example .env        # set VITE_API_URL, e.g. http://localhost:5000
